@@ -1,2 +1,3 @@
 # Cinemates20_BackEnd
-BackEnd for the system CineMates20 - University project for the software engineering course developed by Luca Pastore for the Federico II University
+Di seguito il codice legato che costituisce il back-end del progetto CineMates20.<br>
+Il client mobile e la documentazione relativi a tale back-end è presente a questo <a href"https://github.com/lucaLP98/CineMates20_Mobile">link</a>
